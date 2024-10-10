@@ -1,2 +1,3 @@
 secrets/*
 !vault.md
+date-automation/node_modules/*
