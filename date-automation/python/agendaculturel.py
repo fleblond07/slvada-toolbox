@@ -1,4 +1,6 @@
 # Response contains an ID
+# TODO: Parametize data
+# TODO: Tests to check that no change were made on official website ?
 
 import requests
 
