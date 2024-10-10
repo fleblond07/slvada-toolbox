@@ -1,0 +1,21 @@
+## Sharing is caring
+~~Vault for secret management and Sharing~~
+[this is already done](/secrets/readme.md)
+
+## LaCagette
+Add clear documentation on how to run a dev env + how to run tests
+Customize github CI + tests  
+Set daily backups for prod
+Install a pre-prod + tests stage for updating with ease
+
+## Website
+Optimisation perf
+Opti SEO
+Migration vers VPS - Worth it ?
+
+## Day2Day
+PoC HelloAsso for adhésion
+PoC HelloAsso for automatically filling concert infos
+PoC HelloAsso ft. Brevo
+Automatisation de la saisi des dates
+
